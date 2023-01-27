@@ -22,3 +22,4 @@ Contents
    api
 
 Lumache has its documentation hosted on Read the Docs.
+Agora sim, escolhendo o commit corrento
