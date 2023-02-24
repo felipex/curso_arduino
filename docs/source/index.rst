@@ -25,4 +25,4 @@ Lumache has its documentation hosted on Read the Docs.
 Agora sim, escolhendo o commit corrento
 
 Agora sim! Quer ver a alteração feita localmente.
-
+Atualiza o servidor automaticamente?
