@@ -1,28 +1,45 @@
-Welcome to Lumache's documentation!
-===================================
+Curso de Arduino
+================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Apresentação
+------------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+O Arduino é uma plataforma de desenvolvimento que nos permite interagir com o mundo a nossa volta. Podemos ler sinais do ambiente e realizar ações nesse mesmo ambiente ou em outros dispositivos.
+
+.. _Reads the Docs contributor guide: <https://docs.readthedocs.io/en/stable/contribute.html>
+
+teste
+
+<http://www.arduino.cc>
 
 .. note::
 
    This project is under active development.
 
-Contents
+.. todo::
+
+   Colocar o aviso do Creative Common
+   
+   
+Conteúdo
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :numbered:
 
-   usage
-   api
+   introducao
+   configuracao
+   exemplo01 
 
-Lumache has its documentation hosted on Read the Docs.
-Agora sim, escolhendo o commit corrento
 
-Agora sim! Quer ver a alteração feita localmente.
-Atualiza o servidor automaticamente?
+
+ToDo
+----------------
+
+.. toctree::
+   :maxdepth: 0
+   
+   todo
+   
+
