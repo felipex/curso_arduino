@@ -1,24 +1,23 @@
-Saída Digital
-=============
+Blink - Saída Digital
+=====================================
 
-Pisca LED interno
+Pisca LED 
 -----------------
-
-Neste exemplo iremos aprender como ligar e desligar um LED.
-
-Este costuma ser o exemplo mais simples. Não é preciso nenhum componente extra além da própria placa do Arduino. Todo o circuito necessário já vem inserido na própria placa.
 
 
 Hardware necessário
 -------------------
 
 * 1 Placa de Arduino
-
+* 1 LED
+* Resistor 330 Ohms
+* Jumpers
+* Protoboard
 
 Diagrama
 --------
 
-.. figure:: img/exemplo01-1.png
+.. figure:: ../img/exemplo01-1.png
 
 
 Sketch
@@ -42,9 +41,4 @@ Sketch
 
 
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
