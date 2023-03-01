@@ -2,15 +2,10 @@ Curso de Arduino
 ================
 
 
-O Arduino é uma plataforma de desenvolvimento que nos permite interagir com o mundo a nossa volta. Podemos ler sinais do ambiente e realizar ações nesse mesmo ambiente ou em outros dispositivos.
-
-.. _Reads the Docs contributor guide: <https://docs.readthedocs.io/en/stable/contribute.html>
-
-.. _Arduino: http://www.arduino.cc
+Este pequeno curso de Arduino foi desenvolvido inicialmente como parte da **ZZ Semana do Curso de Ciência da Computação** da Universidade Federal do Cariri.
 
 Para saber mais, acesse o site oficial do `Arduino`_  .
 
-.. _validate your account: https://about.gitlab.com/blog/2021/05/17/prevent-crypto-mining-abuse/#validating-an-account
 
 .. note::
 
@@ -19,6 +14,11 @@ Para saber mais, acesse o site oficial do `Arduino`_  .
 .. todo::
 
    Colocar o aviso do Creative Common
+   
+
+.. todo::
+
+   Colocar apoio do Laboratório de Física e do CoDe.
    
    
 Conteúdo
