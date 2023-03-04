@@ -4,7 +4,7 @@ Curso de Arduino
 
 Este pequeno curso de Arduino foi desenvolvido inicialmente como parte da **ZZ Semana do Curso de Ciência da Computação** da Universidade Federal do Cariri.
 
-Para saber mais, acesse o site oficial do `Arduino`_  .
+Para saber mais, acesse o site oficial do `Arduino <https://www.arduino.cc>`_  .
 
 
 .. note::
@@ -21,26 +21,21 @@ Para saber mais, acesse o site oficial do `Arduino`_  .
    Colocar apoio do Laboratório de Física e do CoDe.
    
    
-Conteúdo
---------
-
-Introdução
-~~~~~~~~~~
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
+   :caption: Introdução
+   :name: intro
    
    apresentacao
    configuracao
    
    
-Exemplos
-~~~~~~~~   
-   
 .. toctree::
    :maxdepth: 1
    :numbered:
+   :caption: Exemplos
+   :name: examples
 
    exemplos/blink_builtin
    exemplos/blink
