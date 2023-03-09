@@ -23,6 +23,9 @@ Diagrama
 Sketch
 -------
 
+
+literalinclude: /home/felipe/repositorios/ESp-MicroPython/code/Blink_LED.py
+
 .. code-block:: c++
 
 	void setup() {

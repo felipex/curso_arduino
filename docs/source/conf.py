@@ -4,6 +4,7 @@
 
 project = 'Curso de Arduino'
 copyright = '2023, Felipe Cavalcante'
+html_show_copyright = True
 author = 'Felipe Cavalcante'
 
 release = '0.1'
@@ -45,7 +46,7 @@ epub_show_urls = 'footnote'
 html_search_language = 'pt'
 language = 'pt_BR'
 
-html_show_copyright = False
+#html_show_copyright = False
 
 autosummary_generate = True
 

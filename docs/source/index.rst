@@ -36,9 +36,16 @@ Para saber mais, acesse o site oficial do `Arduino <https://www.arduino.cc>`_  .
    :numbered:
    :caption: Exemplos
    :name: examples
+   :hidden:
 
    exemplos/blink_builtin
    exemplos/blink
+
+
+Referências
+-----------
+
+* `<https://content.arduino.cc/assets/arduino_comic_pt.pdf>`_
 
 
 
