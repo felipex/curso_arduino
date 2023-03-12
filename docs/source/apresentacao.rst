@@ -3,10 +3,11 @@ Apresentação
 
 **O que é o Arduino**
 
-Falando de uma maneira bonita, o Arduino é uma plataforma de desenvolvimento que nos permite *criar equipamentos que interagem com o mundo a nossa volta* sem precisarmos ter grandes conhecimentos em eletrônica. *Podemos ler sinais do ambiente e realizar ações nesse mesmo ambiente ou em outros dispositivos*.
+Falando de uma maneira curta e bonita, o Arduino é uma *plataforma* *open source* para criação de *protótipos* eletrônicos. Ou seja, podemos *criar equipamentos que interagem com o mundo a nossa volta* sem a necessidade de grandes conhecimentos em eletrônica. *Podemos ler sinais do ambiente e realizar ações nesse mesmo ambiente ou em outros dispositivos*.
 
+Arduino é uma plataforma eletrônica de código aberto baseada em software e hardware fáceis de usar. As placas Arduino nos permitem ler entradas - luz em um sensor, pressionamento de botões, ou uma mensagem do Twitter - e transformar em uma saída - acionar um motor, acender um LED ou publicar uma mensagem em uma rede social. Você pode dizer ao seu Arduino o que fazer enviando um conjunto de instrunçoes para o microcontrolador que fica na própria placa. Para mandar as instruções para a placa você utiliza a linguagem de programação do Arduino, que foi baseada na `Wiring <http://wiring.org.co/>`_, e a IDE do Arduino, que foi baseada no `Processing
+<https://processing.org/>`_. Como você pode ver, o Arduino é essencialmente um criação coletiva e essa é uma de suas grandes qualidades e responsável por seu sucesso.
 
-Arduino é uma plataforma eletrônica de código aberto baseada em software e hardware fáceis de usar. As placas Arduino nos permitem ler entradas - luz em um sensor, pressionamento de botões, ou uma mensagem do Twitter - e 
 
 
 https://docs.arduino.cc/learn/
@@ -14,7 +15,8 @@ https://docs.arduino.cc/learn/
 https://docs.arduino.cc/learn/starting-guide/whats-arduino
 
 
-
+https://www.obr.org.br/
+https://www.mnr.org.br/
 
 **What is Arduino?**
 

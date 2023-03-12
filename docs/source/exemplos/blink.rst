@@ -43,5 +43,9 @@ literalinclude: /home/felipe/repositorios/ESp-MicroPython/code/Blink_LED.py
 
 
 
+Esquema
+-------
+
+.. figure:: ../img/schematic-blink.png
 
 
